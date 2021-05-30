@@ -10,7 +10,7 @@ body {
          color: #432;
 }
 a {
-    text-decoration:none;
+    text-decoration: none;
 }
 img {
     max-width: 100%;
@@ -21,4 +21,21 @@ img {
 .logo {
     width: 210px;
     margin-top: 14px;
+}
+
+.main-nav {
+    display: flex;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    margin-top: 34px;
+    list-style: none;
+}
+.main-nav li{
+    margin-left: 36px;
+}
+main-nav a {
+    ccolor: #432;
+}
+main-nav a:hover {
+    color: #0bd
 }
