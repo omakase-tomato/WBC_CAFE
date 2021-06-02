@@ -33,10 +33,10 @@ img {
 .main-nav li{
     margin-left: 36px;
 }
-main-nav a {
+.main-nav a {
     color: #432;
 }
-main-nav a:hover {
+.main-nav a:hover {
     color: #0bd
 }
 .page-header{
