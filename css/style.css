@@ -125,5 +125,5 @@ aside{
     width: 22%;
 }
 .news-contents{
-    display: flexbox;
+    display: flex;
 }
