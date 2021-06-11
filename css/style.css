@@ -124,7 +124,7 @@ footer p{
 .box_apricot_title{
     background-color: #ff745f;
     border-radius: 20px;
-    display: inline-box;
+    display: inline-block;
     color: #fff;
     font-weight: border;
     margin: 20px;
@@ -135,6 +135,6 @@ footer p{
    border-color: #ff745f;
    border-radius: 20px;
    color: #fff;
-   display: inline-box;
+   display: inline-block;
    padding: 2px 1em; 
 }
