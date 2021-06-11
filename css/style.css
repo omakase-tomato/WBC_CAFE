@@ -138,3 +138,30 @@ footer p{
    display: inline-block;
    padding: 2px 1em; 
 }
+
+
+.box1-green{
+	margin: 2em auto; /* ボックスの余白 */
+	background: #eef8f3; /* ボックス背景色 */
+	border-radius:4px; /* ボックス角丸 */
+	max-width:600px; /* ボックス横幅 */
+	padding: 3.5em 2em 1.5em; /* ボックス内側余白 */
+	position:relative; /* 配置に関するもの(ここを基準に) */
+}
+.box1-green .box-title {
+	background: #58be89; /* タイトル背景色 */
+	color: #fff; /* タイトル文字色 */
+	font-weight: bold; /* タイトル文字の太さ */
+	font-size: 20px;/* タイトル文字の大きさ */
+	padding: 5px;/* タイトル周りの余白 */
+	text-align: center;	/* タイトル中央寄せ */
+	border-radius: 4px 4px 0px 0px;	/* タイトル角丸 */
+	position:absolute;	/* 配置に関するもの(ここを動かす) */
+	top:0;	/*上から(0px)に配置 */
+	left:0; /*左から(0px)に配置 */
+	width:100%;/*横幅最大幅 */
+}
+.box1-green p {
+	margin: 0;/* 文字の余白リセット */
+	padding: 0; /* 文字の内側余白リセット*/
+}
