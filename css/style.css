@@ -116,3 +116,25 @@ footer p{
     font-size: 0.875rem;
 }
 
+/*  ——————— ボックス アプリコット ——————— */
+.tbox_apricot_wrap{
+    position: relative;
+}
+
+.box_apricot_title{
+    background-color: #ff745f;
+    border-radius: 20px;
+    display: inline-box;
+    color: #fff;
+    font-weight: border;
+    margin: 20px;
+    padding: 2px 1em; 
+}
+
+.tbox-apricot_main{
+   border-color: #ff745f;
+   border-radius: 20px;
+   color: #fff;
+   display: inline-box;
+   padding: 2px 1em; 
+}
