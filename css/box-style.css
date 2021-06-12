@@ -4,3 +4,22 @@
 html {
     font-size: 100%;
 }
+
+.box-wrap{
+    margin:40px;
+}
+
+.box-title{
+    background-color: #ff745f;
+    color: #fff;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 3px 10px;
+    margin-left: 20px;
+}
+.box-main{
+    border: 5px #ff745f solid;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
