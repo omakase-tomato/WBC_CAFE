@@ -16,6 +16,8 @@ img {
     max-width: 100%;
 }
 
+
+
 /* HEADER
 ------------------ */
 .logo {
@@ -192,4 +194,18 @@ aside p{
 }
 .sub-menu a:hover {
     color: #0bd;
+}
+
+/* モバイル版 
+-------------------------------*/
+@media (max-with: 600px){
+    .page-title{
+        font-size:2.5rem;
+    }
+
+    /* HEADER */
+    .main-nav{
+        font-size:1rem;
+        
+    }
 }
