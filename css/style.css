@@ -198,7 +198,7 @@ aside p{
 
 /* モバイル版 
 -------------------------------*/
-@media (max-with: 600px) {
+@media screen and (max-with: 600px) {
     .page-title{
         font-size:2.5rem;
     }
